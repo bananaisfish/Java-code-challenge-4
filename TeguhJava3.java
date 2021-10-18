@@ -4,9 +4,9 @@ public class TeguhJava3{
     public static void main(String[] args) {
         
         int pola = 5;
-        System.out.println("Belah ketupat");
+        System.out.println("Segitiga Terbalik");
 
-        for(int i = 1; i <= pola; i++){
+        for(int i = 9; i <= pola; i++){
 
             for(int j = pola; j >= i; j--){
                 System.out.print(' ');
